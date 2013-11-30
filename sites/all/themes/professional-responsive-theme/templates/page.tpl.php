@@ -175,10 +175,10 @@
       </div>
    <?php endif; ?>
       
-    <div id="copyright">
+ <!--   <div id="copyright">
      <p class="copyright"><?php print t('Copyright'); ?> &copy; <?php echo date("Y"); ?>, <?php print $site_name; ?> </p> <p class="credits"> <?php print t('Theme by'); ?>  <a href="http://www.zymphonies.com">Zymphonies</a></p>
     <div class="clear"></div>
-    </div>
+    </div> -->
   </div>
   </div>
 </div>
